@@ -199,8 +199,8 @@ False
 #
 #Fill in the Blank Question:
 #
-In the FBLA Creed, ___ is the right of every person
-B
+In the first stanza of the FBLA Creed, ___ is the right of every person
+Each line of the FBLA-PBL Creed begins with I ___.
 C
 D
 E
@@ -213,7 +213,7 @@ J
 #Fill in the Blank Answer:
 #
 Education
-isB
+Believe
 isC
 isD
 isE
@@ -252,9 +252,9 @@ False
 #Slider Question:
 #
 American Enterprise day is on November __th
-How many FBLA regions are there?
-C
-D
+How many FBLA national regions are there?
+How many years of service to FBLA-PBL must an FBLA adviser have in order to be eligible for the Adviser Wall of Fame?
+The minimum number of members required to start a new or reactivated chapter in FBLA-ML.
 E
 F
 G
@@ -266,8 +266,8 @@ J
 #
 15
 5
+20
 3
-4
 5
 6
 7
