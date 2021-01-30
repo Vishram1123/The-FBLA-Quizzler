@@ -1,9 +1,9 @@
-Rules for editing this text document: 
-Always use 10 questions and answers (and answer choices for multiple choice and select all that apply). Make sure to spell "True" and "False" correctly.
-Do not lower the number of lines. This text document should be exactly 276 lines long. 
-
-Multiple Choice Questions:
-
+#Rules for editing this text document: 
+#Always use 10 questions and answers (and answer choices for multiple choice and select all that apply). Make sure to spell "True" and "False" correctly.
+#Do not lower the number of lines. This text document should be exactly 276 lines long. Do not remove lines that have a # in front of them. 
+#
+#Multiple Choice Questions:
+#
 A
 B
 C
@@ -14,9 +14,9 @@ G
 H
 I
 J
-
-Multiple Choice Answer Choice A:
-
+#
+#Multiple Choice Answer Choice A:
+#
 a
 b
 c
@@ -27,9 +27,9 @@ g
 h
 i
 j
-
-Multiple Choice Answer Choice B:
-
+#
+#Multiple Choice Answer Choice B:
+#
 a
 b
 c
@@ -40,9 +40,9 @@ g
 h
 i
 j
-
-Multiple Choice Answer Choice C:
-
+#
+#Multiple Choice Answer Choice C:
+#
 a
 b
 c
@@ -53,9 +53,9 @@ g
 h
 i
 j
-
-Multiple Choice Answer Choice D:
-
+#
+#Multiple Choice Answer Choice D:
+#
 a
 b
 c
@@ -66,9 +66,9 @@ g
 h
 i
 j
-
-Multiple Choice Answer (A corresponds to 1, B corresponds to 2, C corresponds to 3, and D corresponds to 4):
-
+#
+#Multiple Choice Answer (A corresponds to 1, B corresponds to 2, C corresponds to 3, and D corresponds to 4):
+#
 1
 2
 3
@@ -79,9 +79,9 @@ Multiple Choice Answer (A corresponds to 1, B corresponds to 2, C corresponds to
 4
 1
 2
-
-Select All that Apply Questions:
-
+#
+#Select All that Apply Questions:
+#
 A
 B
 C
@@ -92,9 +92,9 @@ G
 H
 I
 J
-
-Select All that Apply Answer Choice A: 
-
+#
+#Select All that Apply Answer Choice A: 
+#
 a
 b
 c
@@ -105,9 +105,9 @@ g
 h
 i
 j
-
-Select All that Apply Answer Choice B: 
-
+#
+#Select All that Apply Answer Choice B: 
+#
 a
 b
 c
@@ -118,9 +118,9 @@ g
 h
 i
 j
-
-Select All that Apply Answer Choice C:
-
+#
+#Select All that Apply Answer Choice C:
+#
 a
 b
 c
@@ -131,9 +131,9 @@ g
 h
 i
 j
-
-Select All that Apply Answer Choice D:
-
+#
+#Select All that Apply Answer Choice D:
+#
 a
 b
 c
@@ -144,9 +144,9 @@ g
 h
 i
 j
-
-Select All that Apply Answer Choice A Correct or Not (true is correct, false is wrong):
-
+#
+#Select All that Apply Answer Choice A Correct or Not (true is correct, false is wrong):
+#
 True
 True
 False
@@ -157,9 +157,9 @@ False
 False
 True
 True
-
-Select All that Apply Answer Choice B Correct or Not (true is correct, false is wrong):
-
+#
+#Select All that Apply Answer Choice B Correct or Not (true is correct, false is wrong):
+#
 False
 False
 True
@@ -170,9 +170,9 @@ True
 True
 False
 False
-
-Select All that Apply Answer Choice C Correct or Not (true is correct, false is wrong):
-
+#
+#Select All that Apply Answer Choice C Correct or Not (true is correct, false is wrong):
+#
 True
 True
 False
@@ -183,9 +183,9 @@ False
 False
 True
 True
-
-Select All that Apply Answer Choice D Correct or Not (true is correct, false is wrong):
-
+#
+#Select All that Apply Answer Choice D Correct or Not (true is correct, false is wrong):
+#
 False
 False
 True
@@ -196,9 +196,9 @@ True
 True
 False
 False
-
-Fill in the Blank Question:
-
+#
+#Fill in the Blank Question:
+#
 A
 B
 C
@@ -209,9 +209,9 @@ G
 H
 I
 J
-
-Fill in the Blank Answer:
-
+#
+#Fill in the Blank Answer:
+#
 isA
 isB
 isC
@@ -222,9 +222,9 @@ isG
 isH
 isI
 isJ
-
-True or False Question:
-
+#
+#True or False Question:
+#
 A
 B
 C
@@ -235,9 +235,9 @@ G
 H
 I
 J
-
-True or False Answer:
-
+#
+#True or False Answer:
+#
 True
 True
 False
@@ -248,9 +248,9 @@ True
 False
 False
 False
-
-Slider Question:
-
+#
+#Slider Question:
+#
 A
 B
 C
@@ -261,9 +261,9 @@ G
 H
 I
 J
-
-Slider Answer:
-
+#
+#Slider Answer:
+#
 1
 2
 3
