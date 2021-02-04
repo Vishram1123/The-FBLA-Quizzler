@@ -12,8 +12,8 @@ Who is the founder of FBLA?
 What event was retired in 2020?
 What region do non-US chapters get put into?
 Which of the following is a non-US chapter?
-
-
+What is FBLA's primary goal?
+Of the 209,000+ members in FBLA, how many of them are advisors?
 #
 #Multiple Choice Answer Choice A:
 #
@@ -25,8 +25,8 @@ Hamden L. Forkner
 Coding & Programming
 Western
 Connecticut
-
-
+Prepare for a career in business
+26,400+ advisors
 #
 #Multiple Choice Answer Choice B:
 #
@@ -38,8 +38,8 @@ Alan Rzepkowski
 Introduction to Social Media Stratergy
 Eastern
 Louisiana
-
-
+Increase entreprunership throughout the United States
+50,000+ advisors
 #
 #Multiple Choice Answer Choice C:
 #
@@ -51,8 +51,8 @@ Hugh Holbert
 Sales Presentation
 North Central
 Haiti
-
-
+Encourage friendly competition among people
+10,900+ advisors
 #
 #Multiple Choice Answer Choice D:
 #
@@ -64,8 +64,8 @@ Lorraine Wicks
 Emerging Business Issues
 Mountain Plains
 Utah
-
-
+Provide education in marketing
+100,500+ advisors
 #
 #Multiple Choice Answer (A corresponds to 1, B corresponds to 2, C corresponds to 3, and D corresponds to 4):
 #
@@ -77,8 +77,8 @@ Utah
 4
 2
 3
-
-
+1
+3
 #
 #Select All that Apply Questions:
 #
@@ -150,7 +150,7 @@ Times New Roman
 False
 True
 False
-
+False
 
 
 
@@ -163,7 +163,7 @@ False
 True
 True
 True
-
+False
 
 
 
@@ -176,7 +176,7 @@ True
 True
 False
 True
-
+True
 
 
 
@@ -189,7 +189,7 @@ True
 False
 True
 True
-
+True
 
 
 
@@ -228,8 +228,8 @@ Future
 The First FBLA local chapter was organized in Johnson City, Tennessee.
 Arkansas became FBLA's first state chapter.
 A job interview (in order) consists of a letter of application, a resume, and an interview.
-
-
+FBLA-PBL is the largest career student marketing organization in the world.
+Phi Beta Lambda was created in 1958.
 
 
 
@@ -241,8 +241,8 @@ A job interview (in order) consists of a letter of application, a resume, and an
 True
 False
 True
-
-
+False
+True
 
 
 
@@ -259,8 +259,8 @@ How many years does the FBLA-PBL Board of Directors chairman serve?
 The top margin in a memorandum should be __ inches.
 A Public Speaking 1 speech can last __ minutes.
 The FBLA fiscal year is July 1st to June __th.
-
-
+How many divisions of FBLA are there?
+As of 2019, __ states are in FBLA's Phi Beta Lambda division.
 #
 #Slider Answer (Under 50):
 #
@@ -272,5 +272,5 @@ The FBLA fiscal year is July 1st to June __th.
 2
 4
 30
-
-
+4
+40
