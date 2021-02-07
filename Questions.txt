@@ -89,9 +89,9 @@ What are the two fonts that are allowed on a computer related skills test?
 FBLA Nationals were held in ___ in 2018 and ___ in 2019
 Which of the following URLs redirects to the FBLA website?
 Which grades are allowed in FBLA Middle Level membership?
-
-
-
+Which of the following are key words found in FBLA goals?
+What type of devices are not allowed during competitive events?
+Who can propose amendments to the FBLA National Bylaws?
 #
 #Select All that Apply Answer Choice A: 
 #
@@ -102,9 +102,9 @@ Lucida Console
 Baltimore
 fbla-pbl.org
 8th Grade
-
-
-
+Understanding
+Computer With Testing Material
+Middle Level Chapters
 #
 #Select All that Apply Answer Choice B: 
 #
@@ -115,9 +115,9 @@ Helvetica
 Atlanta
 fbla.org
 4th Grade
-
-
-
+Sincerity
+Audio Recording Devices
+Local Chapters
 #
 #Select All that Apply Answer Choice C:
 #
@@ -128,9 +128,9 @@ Arial
 Palo Alto
 fbla.com
 9th Grade
-
-
-
+Confidence
+E-Ink Tablets (like a Kindle)
+State Chapters
 #
 #Select All that Apply Answer Choice D:
 #
@@ -141,9 +141,9 @@ Times New Roman
 San Antonio 
 fbla-pbl.com
 10th Grade
-
-
-
+Aims
+Video Recording Devices
+National Officer
 #
 #Select All that Apply Answer Choice A Correct or Not (true is correct, false is wrong):
 #
@@ -154,9 +154,9 @@ False
 True
 True
 True
-
-
-
+True
+False
+False
 #
 #Select All that Apply Answer Choice B Correct or Not (true is correct, false is wrong):
 #
@@ -167,9 +167,9 @@ False
 False
 True
 False
-
-
-
+False
+True
+True
 #
 #Select All that Apply Answer Choice C Correct or Not (true is correct, false is wrong):
 #
@@ -180,9 +180,9 @@ True
 False
 False
 True
-
-
-
+True
+False
+True
 #
 #Select All that Apply Answer Choice D Correct or Not (true is correct, false is wrong):
 #
@@ -193,9 +193,9 @@ True
 True
 False
 False
-
-
-
+False
+True
+True
 #
 #Fill in the Blank Question:
 #
@@ -206,9 +206,9 @@ The FBLA National Leadership Conference is in which month?
 FBLA-PBL INC. is primarily funded through _______ dues.
 FBLA's first state chapter was ___. 
 What is the last word of the FBLA pledge?
-
-
-
+FBLA-PBL is the second week in which month?
+Proposed amendments to the ___ must be submitted in writing before April First.
+One of the awards presented at the Fall Leadership Conference is the _____ Local Chapter in Attendance award.
 #
 #Fill in the Blank Answer:
 #
@@ -219,9 +219,9 @@ June
 Membership
 Iowa
 Leader
-
-
-
+February
+Bylaws
+Largest
 #
 #True or False Question:
 #
@@ -232,9 +232,9 @@ FBLA-PBL is the largest career student marketing organization in the world.
 Phi Beta Lambda was created in 1958.
 Advisers cannot be self-nominated for the FBLA-PBL Adviser Wall of Fame
 The chapter officer that presides over and conducts meetings is usually the president.
-
-
-
+The Chapter Management Handbook is updated once every two years.
+FBLA's "Go Green" project recognizes one chapter in each region for its earth friendly activities.
+Competitive event resources for the Parlimentary Procedures event cannot be purchased at the MarketPlace.  
 #
 #True or False Answer:
 #
@@ -245,9 +245,9 @@ False
 True
 False
 True
-
-
-
+False
+True
+False
 #
 #Slider Question:
 #
