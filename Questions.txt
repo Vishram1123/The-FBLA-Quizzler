@@ -86,9 +86,9 @@ What are the official colors of FBLA-PBL?
 What are the 3 words on the FBLa and PBL emblems?
 What are the 3 words that PBL stands for?
 What are the two fonts that are allowed on a computer related skills test?
-
-
-
+FBLA Nationals were held in ___ in 2018 and ___ in 2019
+Which of the following URLs redirects to the FBLA website?
+Which grades are allowed in FBLA Middle Level membership?
 
 
 
@@ -99,9 +99,9 @@ Red
 Education
 Power
 Lucida Console
-
-
-
+Baltimore
+fbla-pbl.org
+8th Grade
 
 
 
@@ -112,9 +112,9 @@ Gold
 Progress
 Lambda
 Helvetica
-
-
-
+Atlanta
+fbla.org
+4th Grade
 
 
 
@@ -125,9 +125,9 @@ Blue
 Teamwork
 Phi
 Arial
-
-
-
+Palo Alto
+fbla.com
+9th Grade
 
 
 
@@ -138,9 +138,9 @@ White
 Service
 Beta
 Times New Roman
-
-
-
+San Antonio 
+fbla-pbl.com
+10th Grade
 
 
 
@@ -151,9 +151,9 @@ False
 True
 False
 False
-
-
-
+True
+True
+True
 
 
 
@@ -164,9 +164,9 @@ True
 True
 True
 False
-
-
-
+False
+True
+False
 
 
 
@@ -177,9 +177,9 @@ True
 False
 True
 True
-
-
-
+False
+False
+True
 
 
 
@@ -190,9 +190,9 @@ False
 True
 True
 True
-
-
-
+True
+False
+False
 
 
 
@@ -202,10 +202,10 @@ True
 In the first stanza of the FBLA Creed, ___ is the right of every person
 Each line of the FBLA-PBL Creed begins with I ___.
 FBLA stands for _______ Business Leaders of America.
-
-
-
-
+The FBLA National Leadership Conference is in which month?
+FBLA-PBL INC. is primarily funded through _______ dues.
+FBLA's first state chapter was ___. 
+What is the last word of the FBLA pledge?
 
 
 
@@ -215,10 +215,10 @@ FBLA stands for _______ Business Leaders of America.
 Education
 Believe
 Future
-
-
-
-
+June
+Membership
+Iowa
+Leader
 
 
 
@@ -230,8 +230,8 @@ Arkansas became FBLA's first state chapter.
 A job interview (in order) consists of a letter of application, a resume, and an interview.
 FBLA-PBL is the largest career student marketing organization in the world.
 Phi Beta Lambda was created in 1958.
-
-
+Advisers cannot be self-nominated for the FBLA-PBL Adviser Wall of Fame
+The chapter officer that presides over and conducts meetings is usually the president.
 
 
 
@@ -243,8 +243,8 @@ False
 True
 False
 True
-
-
+False
+True
 
 
 
