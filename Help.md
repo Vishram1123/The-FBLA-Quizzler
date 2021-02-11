@@ -1,7 +1,7 @@
 # Help
 ## Application not opening:
 If you see the following error message:
-![No Internet](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/File%20Chosen%20does%20not%20work.png?raw=true "No Internet")
+![No Internet](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/No%20Internet.png?raw=true "No Internet")
 
 ## Troubleshooting file problems:
 If you see the following error message:
