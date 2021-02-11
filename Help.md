@@ -25,4 +25,6 @@ If you see the following error message:
     2. `cd "/Path/To/The/FBLA/Quizzler"`
     3. `sudo java -jar "The FBLA Quizzler.jar"`
     4. Type in your administrator password
-  
+## Other general help:
+### Choosing a text file with a custom name:
+    
