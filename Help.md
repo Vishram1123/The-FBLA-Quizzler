@@ -27,4 +27,5 @@ If you see the following error message:
     4. Type in your administrator password
 ## Other general help:
 ### Choosing a text file with a custom name:
-    
+![Step 1: Click Different Question Set](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Custom%20File%20Step%201.png?raw=true "Step 1: Click Different Question Set")
+![Step 2: Choose Your File](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Custom%20File%20Step%202.png?raw=true "Step 1: Choose Your File")
