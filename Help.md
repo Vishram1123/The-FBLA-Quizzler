@@ -4,8 +4,9 @@ If you see the following error message:
 ![File error dialog box](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/File%20Chosen%20does%20not%20work.png?raw=true "File error dialog box")
 * On Windows:
     1. Open Command Prompt or Powershell as administrator
-    2. `cd "C:\Path\To\The\FBLA\Quizzler"`
-    3. `javaw.exe -jar "The FBLA Quizzler.jar"`
+    2. Answer the UAC (Do you want to allow this app to make changes to your device?) prompt
+    3. `cd "C:\Path\To\The\FBLA\Quizzler"`
+    4. `javaw.exe -jar "The FBLA Quizzler.jar"`
 * On macOS:
     1. Open System Preferences
     2. Open Finder
