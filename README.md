@@ -1,4 +1,5 @@
 # The FBLA Quizzler
+A feature-rich quiz program for FBLA
 
 ## Its design:
 The FBLA Quizzler is built using Java Swing, which is based on AWT. I chose Swing because it is a robust and functionally rich GUI for Java. The program utilizes several functions to initialize the UI, download the text file, handle button presses, set up the different variables used for initializing the questions, and more. It uses If-Else statements, and, wherever possible, it uses Switch cases to handle different iterations of the program. It is a very user-friendly program, and it is compatible with all operating systems running [Java SE Development Kit 15.0](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) or higher. 
@@ -12,3 +13,11 @@ The FBLA Quizzler is built using Java Swing, which is based on AWT. I chose Swin
     - If you have problems, check out the [Help page](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Help.md).
 4. Test your knowledge.
 
+## How it works:
+<html><body><div id="cincopa_ebff15">...</div><script type="text/javascript">
+    var cpo = []; cpo["_object"] ="cincopa_ebff15"; cpo["_fid"] = "AMLAKyuVeZ9u";
+    var _cpmp = _cpmp || []; _cpmp.push(cpo);
+    (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+    cp.async = true; cp.src = "https://rtcdn.cincopa.com/libasync.js";
+    var c = document.getElementsByTagName("script")[0];
+    c.parentNode.insertBefore(cp, c); })(); </script></body></html>
