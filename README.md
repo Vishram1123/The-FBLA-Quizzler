@@ -7,7 +7,7 @@ The FBLA Quizzler is built using Java Swing, which is based on AWT. I chose Swin
 ## Running The FBLA Quizzler:
 1. Install [Java SE Development Kit 15.0](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) or higher on your computer.
     - For installation instructions, look [here](https://docs.oracle.com/en/java/javase/15/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A). 
-2. Download the program Jar file from the [Releases](https://github.com/Vishram1123/The-FBLA-Quizzler/releases/) page.
+2. Download the program Jar file from the [Releases](https://github.com/Vishram1123/The-FBLA-Quizzler/releases/) page (Releases > Assets located at the bottom of the page > The-FBLA-Quizzler.jar).
     - [To compile from source](https://youtube.com/playlist?list=PLBeYt0c7_kTdrO5ENnhuxAklMGseWpxVN), install Eclipse, download the source code, [import it into Eclipse](https://youtu.be/0u_8twbyNjY) (File > Import > Projects from Folder or Archive > The-FBLA-Quizzler.Zip > Finish), and [export as a jar file](https://youtu.be/U6C-e1QgWNU) (File > Export > Java > Runnable JAR File > /Path/To/Your/Dir.jar > Finish).
 3. Double click on the Jar file. 
     - If you have problems, check out the [Help page](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Help.md).
