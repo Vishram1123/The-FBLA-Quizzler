@@ -1,11 +1,14 @@
 # Help
 ## Application not opening:
+
 If you see the following error message:
+
 ![No Internet](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/No%20Internet.png?raw=true "No Internet")
 1. Connect to the Internet
 2. Reopen The FBLA Quizzler.jar
 
 If you see this error message:
+
 ![No Permission](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Mac-Cannot%20be%20opened.png?raw=true "No Permission")
 * On Mac:
     1. Option 1:
