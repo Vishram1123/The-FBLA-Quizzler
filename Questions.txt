@@ -1,6 +1,6 @@
 #Rules for editing this text document: 
 #Always use 10 questions and answers (and answer choices for multiple choice and select all that apply). Make sure to spell "True" and "False" correctly.
-#Do not lower the number of lines. This text document should be exactly 276 lines long. Do not remove lines that have a # in front of them. 
+#Do not add or remove lines. This text document should be exactly 276 lines long. Do not modify lines that have a # in front of them. 
 #
 #Multiple Choice Questions:
 #
