@@ -23,14 +23,15 @@ If you see the following error message:
     8. Drag `java` from Finder into the bar on the right hand side of System Preferences
     9. Open Terminal
     10. `cd "/Path/To/The/FBLA/Quizzler"`
-    11. `sudo java -jar "The FBLA Quizzler.jar"`
-    12. Type in your administrator password
+    11. `java -jar "The FBLA Quizzler.jar"`
 * On Linux:
     1. Open Terminal
     2. `cd "/Path/To/The/FBLA/Quizzler"`
-    3. `sudo java -jar "The FBLA Quizzler.jar"`
-    4. Type in your administrator password
+    3. `java -jar "The FBLA Quizzler.jar"`
 ## Other general help:
 ### Choosing a text file with a custom name:
 ![Step 1: Click Different Question Set](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Custom%20File%20Step%201.png?raw=true "Step 1: Click Different Question Set")
-![Step 2: Choose Your File](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Custom%20File%20Step%202.png?raw=true "Step 1: Choose Your File")
+![Step 2: Choose Your File](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Custom%20File%20Step%202.png?raw=true "Step 2: Choose Your File")
+### Saving your results:
+![Step 1: Click I would like to save my results](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Save%20Results%20Step%201.png?raw=true "Step 1: Click I would like to save my results")
+![Step 2: Choose the folder to save it in](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Save%20Results%20Step%202.png?raw=true "Step 2: Choose the folder to save it in")
