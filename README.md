@@ -14,10 +14,5 @@ The FBLA Quizzler is built using Java Swing, which is based on AWT. I chose Swin
 4. Test your knowledge.
 
 ## How it works:
-<html><body><div id="cincopa_ebff15">...</div><script type="text/javascript">
-    var cpo = []; cpo["_object"] ="cincopa_ebff15"; cpo["_fid"] = "AMLAKyuVeZ9u";
-    var _cpmp = _cpmp || []; _cpmp.push(cpo);
-    (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
-    cp.async = true; cp.src = "https://rtcdn.cincopa.com/libasync.js";
-    var c = document.getElementsByTagName("script")[0];
-    c.parentNode.insertBefore(cp, c); })(); </script></body></html>
+<html><body><iframe src="https://raw.githubusercontent.com/Vishram1123/The-FBLA-Quizzler/main/slideshow.html"></iframe></body></html>
+
