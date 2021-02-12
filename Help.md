@@ -40,15 +40,17 @@ If you see the following error message:
 1. Download Questions Template.txt from [here](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Questions%20Template.txt)
     * If you cannot find a Download button, click `Raw` and then copy the text into a text document on your computer
 2. Once downloaded, rename the file to "Questions.txt" 
-    * If you don't, look [here]() to choose a different text file. 
+    * If you don't, look [here](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Help.md#choosing-a-text-file-with-a-custom-name) to choose a different text file. 
 3. Do not delete lines, but delete contents on lines that do not have a "#" on them. 
     * Example:
-    `#`
-    `# Multiple Choice Questions Answer Choice A:`
-    `#`
-    `Ferdinand`
-    `Oklahoma`
-    `TI-84`
+    ```
+    #
+    # Multiple Choice Questions Answer Choice A:
+    #
+    Ferdinand
+    Oklahoma
+    TI-84
+    ```
     * And so on. Delete `Ferdinand`, `Oklahoma`, and `TI-84`, not `#`, `# Multiple Choice Questions Answer Choice A:`, or `#`.
 4. Once editing them, open up The FBLA Quizzler, and choose the directory containing your custom Questions.txt.
-    * If your file is named something different, look [here]() to choose a different text file. 
+    * If your file is named something different, look [here](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Help.md#choosing-a-text-file-with-a-custom-name) to choose a different text file. 
