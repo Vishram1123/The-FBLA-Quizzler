@@ -64,4 +64,4 @@ The FBLA Quizzler is built using Java Swing, which is based on AWT. I chose Swin
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f37uNpPXhSI
 " target="_blank"><img src="http://img.youtube.com/vi/f37uNpPXhSI/0.jpg" 
-alt="Sample Run" width="500" height="300" border="10" /></a>
+alt="Sample Run" width="480" height="360" border="10" /></a>
