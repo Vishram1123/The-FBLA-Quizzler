@@ -4,6 +4,20 @@ If you see the following error message:
 ![No Internet](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/No%20Internet.png?raw=true "No Internet")
 1. Connect to the Internet
 2. Reopen The FBLA Quizzler.jar
+
+If you see this error message:
+![No Permission](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Mac-Cannot%20be%20opened.png?raw=true "No Permission")
+* On Mac:
+    1. Option 1:
+        1. Open Finder
+        2. Go to the folder that you downloaded The FBLA Quizzler to
+        3. Right click on the FBLA Quizzler
+        4. Click open
+        5. Click open on the dialog box
+    2. Option 2:
+        1. Open Terminal
+        2. `cd "/Path/To/The/FBLA/Quizzler"`
+        3. `java -jar "The FBLA Quizzler.jar"`
 ## Troubleshooting file problems:
 If you see the following error message:
 ![File error dialog box](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/File%20Chosen%20does%20not%20work.png?raw=true "File error dialog box")
