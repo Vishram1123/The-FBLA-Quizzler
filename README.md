@@ -14,5 +14,48 @@ The FBLA Quizzler is built using Java Swing, which is based on AWT. I chose Swin
 4. Test your knowledge.
 
 ## How it works:
-<html><body><iframe src="https://raw.githubusercontent.com/Vishram1123/The-FBLA-Quizzler/main/slideshow.html"></iframe></body></html>
-
+<details>
+<summary>Hierarchy</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Hierarchy.png?raw=true">
+</details>
+<details>
+<summary>Introduction</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Introduction.png?raw=true">
+</details>
+<details>
+<summary>Instructions</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Instructions.png?raw=true">
+</details>
+<details>
+<summary>Multiple Choice Question 1</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Multiple%20Choice%20Q1.png?raw=true">
+</details>
+<details>
+<summary>Slider Question 2</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Slider%20Q2.png?raw=true">
+</details>
+<details>
+<summary>Select All that Apply Question 3</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Select%20All%20that%20Apply%20Q3.png?raw=true">
+</details>
+<details>
+<summary>Fill In the Blank Question 4</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Fill%20In%20the%20Blank%20Q4.png?raw=true">
+</details>
+<details>
+<summary>True or False Question 5</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/True%20or%20False%20Q5.png?raw=true">
+</details>
+<details>
+<summary>Summary</summary>
+<br>
+<img src="https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Slideshow/Results.png?raw=true">
+</details>
