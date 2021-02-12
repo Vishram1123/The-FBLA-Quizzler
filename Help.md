@@ -35,3 +35,20 @@ If you see the following error message:
 ### Saving your results:
 ![Step 1: Click I would like to save my results](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Save%20Results%20Step%201.png?raw=true "Step 1: Click I would like to save my results")
 ![Step 2: Choose the folder to save it in](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Resources%20(README.md%20and%20Help.md)/Save%20Results%20Step%202.png?raw=true "Step 2: Choose the folder to save it in")
+* It will then give a message box with the location you saved the file, and after you dismiss that, it will open the file in your default browser. 
+### Editing the question database:
+1. Download Questions Template.txt from [here](https://github.com/Vishram1123/The-FBLA-Quizzler/blob/main/Questions%20Template.txt)
+    * If you cannot find a Download button, click `Raw` and then copy the text into a text document on your computer
+2. Once downloaded, rename the file to "Questions.txt" 
+    * If you don't, look [here]() to choose a different text file. 
+3. Do not delete lines, but delete contents on lines that do not have a "#" on them. 
+    * Example:
+    `#`
+    `# Multiple Choice Questions Answer Choice A:`
+    `#`
+    `Ferdinand`
+    `Oklahoma`
+    `TI-84`
+    * And so on. Delete `Ferdinand`, `Oklahoma`, and `TI-84`, not `#`, `# Multiple Choice Questions Answer Choice A:`, or `#`.
+4. Once editing them, open up The FBLA Quizzler, and choose the directory containing your custom Questions.txt.
+    * If your file is named something different, look [here]() to choose a different text file. 
